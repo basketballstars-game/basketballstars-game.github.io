@@ -1,1 +1,1 @@
-# basketballstars-game.github.io
+asketball Stars is an exciting online basketball game where you control legendary players like Michael Jordan and LeBron James. Enjoy fast-paced matches, special abilities, and various game modes.
